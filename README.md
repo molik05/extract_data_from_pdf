@@ -1,1 +1,1 @@
-R scripts to extract data from pdf reports with irregular structure
+ - R scripts to extract data from pdf reports with irregular structure.
